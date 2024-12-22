@@ -1,5 +1,6 @@
 import rishavProfile from "../assets/rishavProfile.jpeg"
 import { HERO_CONTENT } from "../constants"
+
 const Hero = () => {
     return ( 
       <div className="pb-4 lg:mb-36">
