@@ -28,8 +28,8 @@ export default function Project() {
               <div className="overflow-hidden m-2 border rounded-sm">
                 <Image 
                   src={`${e.image}`} 
-                  width={1280} 
-                  height={720} 
+                  width={500} 
+                  height={500} 
                   alt="Project Image" 
                   className="object-cover transition-transform duration-300 -z-10 hover:scale-105"
                 />

@@ -1,33 +1,33 @@
 export const Projects:Projects[] = [
     {
         title:"Portfolio",
-        description:"An AI thumbnail generator, takes a reference image from users and prompt and then crafts perfect thumbnail for the required title",
-        image:"/thumbnaily.avif",
-        techUsed:["NextJS" , "Typescript", "Postgresql" , "Prisma"],
+        description: "A responsive portfolio website highlighting my work, tech stack, and project links. Built with Next.js, TypeScript, Tailwind CSS, and PostgreSQL for project management.",
+        image:"/Welcome Signage Photo.jpg",
+        techUsed:["NextJS" , "Typescript", "Postgresql","Tailwind-css"],
         liveLink:"https://thumbnaily.in",
-        githubLink:"https://github.com/justanuragmaurya/thumbnaily-ai"
+        githubLink:"https://github.com/rishavr920/Portfolio"
     },
     {
         title:"chat-app",
-        description:"A decentralized certificate generator built on top of solana blockchain network, It mints an NFT for each certificate to introduce authenticity.",
-        image:"/decert.png",
-        techUsed:["React-Vite" , "Solana" , "Blockchain" ,"Metaplex NFT" , "RPC Nodes"],
+        description: "A full-stack real-time chat app with React-Vite frontend and Spring Boot backend, using WebSockets for seamless live messaging and Tailwind CSS for responsive design.",
+        image:"/Green Square Speech Bubble.jpg",
+        techUsed:["React-Vite" , "Spring-boot" , "Tailwind-css" ,"Web-Socket" ],
         liveLink:"https://decerts.anuragmaurya.com",
-        githubLink:"https://github.com/justanuragmaurya/decerts"
+        githubLink:"https://github.com/rishavr920/chat"
     },
     {
         title:"e-commerce",
-        description:"A solana token dispenser for solana testnet blockchain network. Users link their wallet and request for airdrops, the tool provides them with tokens in devnet for them to use while testing.",
-        image:"/soldevta.png",
-        techUsed:["React-Vite" , "Express" , "Solana" ,"AlchemyRPC" , "Blockchain"],
+        description: "A scalable e-commerce web app using Spring Boot, React, Kafka, and PostgreSQL. Includes features like product catalog, cart, and order processing, all containerized with Docker.",
+        image:"/Toy Shopping Cart.jpg",
+        techUsed:["Spring-boot" , "Docker" , "Kafka" ,"React" , "Postgresql"],
         liveLink:"https://soldevta.anuragmaurya.com",
-        githubLink:"https://github.com/justanuragmaurya/solana-faucet"
+        githubLink:"https://github.com/rishavr920/E-commerce"
     },
     {
         title:"Medium",
-        description:"A real-time chat application with WebSocket protocol enabling instant message delivery and room-based communication",
-        image:"/baatcheet.png",
-        techUsed:["React-Vite" , "Typescript" , "Websockets" ,"NodeJs" , "TailwindCSS"],
+        description: "A Medium-style blogging web app built with React, TypeScript, Node.js, and PostgreSQL. Features include user authentication, rich text editor, article management, and responsive UI with TailwindCSS.",
+        image:"/Brown Fountain Pen on Notebook.jpg",
+        techUsed:["React-Vite" , "Typescript" , "Express" ,"NodeJs" , "TailwindCSS","Postgresql"],
         liveLink:"https://baatcheet.anuragmaurya.com",
         githubLink:"https://github.com/justanuragmaurya/realtime-chat-app"
     },
@@ -35,9 +35,9 @@ export const Projects:Projects[] = [
         title:"MRP",
         description:"MRP is a web-app that is created for recording the placement journey of MCA students",
         image:"/",
-        techUsed:["React-Vite" , "Typescript" , "Websockets" ,"NodeJs" , "TailwindCSS"],
+        techUsed:["Next.JS" , "Typescript" ,  "TailwindCSS"],
         liveLink:"/",
-        githubLink:"/"
+        githubLink:"https://github.com/AnshumanMahato/MRP"
     }
     
 ]

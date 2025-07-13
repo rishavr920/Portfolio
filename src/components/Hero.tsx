@@ -47,7 +47,7 @@ export default function HeroSection(){
                         </RainbowButton>
                     </Link>
                     
-                    <Link href="https://drive.google.com/file/d/1uUc0uuiR81En-_JOb4kfB0ViLcwTmQGI/view?usp=drive_link"
+                    <Link href="https://drive.google.com/file/d/1pgzblEpD8doh14fRMbt5ax8yWvzTiYl7/view?usp=drive_link"
                     target="_blank"
                     rel="noopener noreferrer">
                         <RainbowButton variant="outline">
