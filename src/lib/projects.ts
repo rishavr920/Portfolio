@@ -4,23 +4,23 @@ export const Projects:Projects[] = [
         description: "A responsive portfolio website highlighting my work, tech stack, and project links. Built with Next.js, TypeScript, Tailwind CSS, and PostgreSQL for project management.",
         image:"/Welcome Signage Photo.jpg",
         techUsed:["NextJS" , "Typescript", "Postgresql","Tailwind-css"],
-        liveLink:"https://thumbnaily.in",
+        liveLink:"https://portfolio-eta-two-56ve570lri.vercel.app/",
         githubLink:"https://github.com/rishavr920/Portfolio"
     },
     {
-        title:"chat-app",
-        description: "A full-stack real-time chat app with React-Vite frontend and Spring Boot backend, using WebSockets for seamless live messaging and Tailwind CSS for responsive design.",
-        image:"/Green Square Speech Bubble.jpg",
-        techUsed:["React-Vite" , "Spring-boot" , "Tailwind-css" ,"Web-Socket" ],
-        liveLink:"https://decerts.anuragmaurya.com",
-        githubLink:"https://github.com/rishavr920/chat"
+        title:"Trie-Autocomplete",
+        description: "Full-stack autocomplete app with a C++ backend using a Trie for fast prefix search and REST APIs to insert words and fetch suggestions.",
+        image:"/trie.png",
+        techUsed:["html,css,cmake,docker" ],
+        liveLink:"https://trie-autocomplete-1.onrender.com/",
+        githubLink:"https://github.com/rishavr920/TRIE-AUTOCOMPLETE/tree/main"
     },
     {
         title:"e-commerce",
         description: "A scalable e-commerce web app using Spring Boot, React, Kafka, and PostgreSQL. Includes features like product catalog, cart, and order processing, all containerized with Docker.",
         image:"/Toy Shopping Cart.jpg",
         techUsed:["Spring-boot" , "Docker" , "Kafka" ,"React" , "Postgresql"],
-        liveLink:"https://soldevta.anuragmaurya.com",
+        liveLink:"",
         githubLink:"https://github.com/rishavr920/E-commerce"
     },
     {
@@ -28,15 +28,15 @@ export const Projects:Projects[] = [
         description: "A Medium-style blogging web app built with React, TypeScript, Node.js, and PostgreSQL. Features include user authentication, rich text editor, article management, and responsive UI with TailwindCSS.",
         image:"/Brown Fountain Pen on Notebook.jpg",
         techUsed:["React-Vite" , "Typescript" , "Express" ,"NodeJs" , "TailwindCSS","Postgresql"],
-        liveLink:"https://baatcheet.anuragmaurya.com",
-        githubLink:"https://github.com/justanuragmaurya/realtime-chat-app"
+        liveLink:"https://mediumfrontend-alpha.vercel.app/",
+        githubLink:"https://github.com/rishavr920/cohort-2/tree/main/week13/Medium"
     },
     {
         title:"MRP",
         description:"MRP is a web-app that is created for recording the placement journey of MCA students",
-        image:"/",
+        image:"/MRP.png",
         techUsed:["Next.JS" , "Typescript" ,  "TailwindCSS"],
-        liveLink:"/",
+        liveLink:"https://mrp-nitjsr.vercel.app/",
         githubLink:"https://github.com/AnshumanMahato/MRP"
     }
     
